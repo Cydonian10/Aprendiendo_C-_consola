@@ -1,0 +1,15 @@
+D:\net\console_escuela\bin\Debug\net7.0\console_escuela.exe
+D:\net\console_escuela\bin\Debug\net7.0\console_escuela.deps.json
+D:\net\console_escuela\bin\Debug\net7.0\console_escuela.runtimeconfig.json
+D:\net\console_escuela\bin\Debug\net7.0\console_escuela.dll
+D:\net\console_escuela\bin\Debug\net7.0\console_escuela.pdb
+D:\net\console_escuela\obj\Debug\net7.0\console_escuela.csproj.AssemblyReference.cache
+D:\net\console_escuela\obj\Debug\net7.0\console_escuela.GeneratedMSBuildEditorConfig.editorconfig
+D:\net\console_escuela\obj\Debug\net7.0\console_escuela.AssemblyInfoInputs.cache
+D:\net\console_escuela\obj\Debug\net7.0\console_escuela.AssemblyInfo.cs
+D:\net\console_escuela\obj\Debug\net7.0\console_escuela.csproj.CoreCompileInputs.cache
+D:\net\console_escuela\obj\Debug\net7.0\console_escuela.dll
+D:\net\console_escuela\obj\Debug\net7.0\refint\console_escuela.dll
+D:\net\console_escuela\obj\Debug\net7.0\console_escuela.pdb
+D:\net\console_escuela\obj\Debug\net7.0\console_escuela.genruntimeconfig.cache
+D:\net\console_escuela\obj\Debug\net7.0\ref\console_escuela.dll
